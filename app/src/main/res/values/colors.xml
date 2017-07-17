@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="main_background">#FF5E51</color>
+    <color name="white">#ffffff</color>
+    <color name="turquoise">#3CDDE3</color>
+    <color name="black">#000000</color>
+    <color name="deep_sky_blue">#02A8F3</color>
+</resources>
